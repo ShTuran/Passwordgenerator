@@ -27,9 +27,7 @@ def generator():
         else:
             print("Enter positive integers: ")
                 
-    '''random.shuffle(s)
-    pas = ("".join(s[0:passlen]))
-    print(pas)'''
+    
     
     
                   
